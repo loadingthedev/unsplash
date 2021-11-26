@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  padding: 0 14rem;
+  background-color: rgba(0, 156, 173, 0.356);
+  max-width: 118rem;
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  color: #00ff40;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.a-center {
+  align-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */

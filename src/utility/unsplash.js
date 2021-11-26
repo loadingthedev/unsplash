@@ -17,5 +17,5 @@ export const imagesBySearchTerm = async(searchTerm)=>{
           }
     })
 
-    return data;
+    return data ;
 }
